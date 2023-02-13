@@ -34,7 +34,6 @@ for w3scholl in w3schollsList:
                 poster = ""
                 for element in re.findall(r'</span>(.*?)</span>', str(li)):
                     if "Offre" in element or "Recrutement" in element or "Derniere" in element or "Aujourd'hui" in element or 'jour' in element:
-                        print(element)
 
                         poster = element
                 x.append([{'nom':nommetier, 'Entreprise':Companyname, 'Localisation' :CompanyLocation,  'Caractéristique':" ".join(Salary), "Date de poste":poster}])
