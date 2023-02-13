@@ -34,7 +34,8 @@ def indeed_parser():
                            'Caractéristique': " ".join(Salary), "Date de poste": poster}])
                 print(nommetier, Companyname, CompanyLocation, " ".join(Salary), poster)
     with open('indeed.json', 'a', encoding='utf8') as f:
-        f.write(json.dumps(x, indent=4))
+        fichier = json.dumps(x, ensure_ascii=False, indent=4)
+        f.write(fichier)
 
 if __name__ == '__main__':
     indeed_parser()
