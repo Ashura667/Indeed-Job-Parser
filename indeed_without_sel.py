@@ -4,14 +4,14 @@ import json
 def indeed_parser():
     scraper = cloudscraper.create_scraper(delay=10)  # returns a CloudScraper instance
     # Or: scraper = cloudscraper.CloudScraper()  # CloudScraper inherits from requests.Session
-    donnée = scraper.get("https://fr.indeed.com/jobs?q=développeur%20web&l=&from=searchOnHP").text
+    donnée = scraper.get("https://fr.indeed.com/jobs?q=développeur%20web").text
 
     soup = bs4.BeautifulSoup(donnée, "lxml")
-    w3schollsList = soup.find_all('body')
+    website = soup.find_all('body')
     x = []
 
-    for w3scholl in w3schollsList:
-        ulList = w3scholl.find_all('li')
+    for element in website:
+        ulList = element.find_all('li')
         for li in ulList:
             if 'class="cardOutline' in str(li):
                 # print(li)
