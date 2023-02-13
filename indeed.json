@@ -1,771 +1,137 @@
 [
     [
         {
-            "nom": "Développeur C++, infographie / Team Leader (H/F)",
-            "Entreprise": "LOGOPRESS, Groupe AutoForm",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "De 40 000 € à 50 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 25 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur mobile Flutter CDI H/F",
-            "Entreprise": "HelloCSE",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "De 30 000 € à 40 000 € par an Temps plein Du Lundi au Vendredi",
+            "nom": "Développeur embarqué en e-santé et IoT H/F",
+            "Entreprise": "EDEVICE",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "De 32 000 € à 42 000 € par an Statut cadre Travail en journée",
             "Date de poste": "Dernière activité : il y a 2 jours"
         }
     ],
     [
         {
-            "nom": "Développeur Node.js",
-            "Entreprise": "WIN-WIN.COM",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Dernière activité : il y a 2 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur/se web Apprenti 100% télétravail",
-            "Entreprise": "3WRH",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a 9 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Software Lead Developer Full stack (Angular/.Net/C#) -Full remote possible-",
-            "Entreprise": "N2JSOFT",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "De 45 000 € à 55 000 € par an CDI Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 11 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur front-end web – produit innovant - F/H",
+            "nom": "Développeur Expérimenté C# H/F",
             "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a 20 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web H/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "développeur PHP confirmé",
-            "Entreprise": "Expli'site",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "De 40 000 € à 50 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeuse / Développeur Frontend Junior H/F - IDF",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior H/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Developpeur Web H/F",
-            "Entreprise": "StartupFood",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "À partir de 4 000 € par mois Temps plein Périodes de travail de 8 heures",
-            "Date de poste": "Aujourd'hui"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web front-end H/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a 9 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Reconversion développeur - Java - Aérospatial - Toulouse",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 11 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur back-end H/F",
-            "Entreprise": "CxFirst",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "De 38 000 € à 45 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Dernière activité : il y a 12 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Ingénieur/Ingénieure développeur/développeuse AI data scientist M/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 25115 Pouilley-les-Vignes",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ]
-][
-    [
-        {
-            "nom": "Concepteur développeur AS400 / RPG / DB2",
-            "Entreprise": "GMES",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI Travail en journée",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web full stack senior H/F",
-            "Entreprise": "mediacrossing:",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "Jusqu’à 36 000 € par an CDI Heures supplémentaires",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Full Stack H/F",
-            "Entreprise": "VEODIS",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "À partir de 2 800 € par mois CDI Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Software development engineer (Angular/ .Net / C#) - Full remote possible",
-            "Entreprise": "N2JSOFT",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "De 35 000 € à 45 000 € par an CDI Travail en journée",
-            "Date de poste": "Offre publiée il y a 24 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeuse / Développeur Frontend Junior H/F - IDF",
-            "Entreprise": "",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior H/F",
-            "Entreprise": "",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web - reconversion professionnelle",
-            "Entreprise": "Incubateur Tech - Alt",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "De 25 763 € à 46 491 € par an Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a 27 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur/se web Apprenti 100% télétravail",
-            "Entreprise": "3WRH",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "Temps plein Repos le week-end",
-            "Date de poste": "Offre publiée il y a 10 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur informatique intermédiaire/senior",
-            "Entreprise": "",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "De 32 000 € à 40 000 € par an Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Developpeur Web H/F",
-            "Entreprise": "StartupFood",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "À partir de 4 000 € par mois CDI Périodes de travail de 8 heures",
-            "Date de poste": "Offre publiée il y a 1 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur ITSM",
-            "Entreprise": "",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 13 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur mobile Flutter CDI H/F",
-            "Entreprise": "HelloCSE",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "De 30 000 € à 40 000 € par an CDI Périodes de travail de 8 heures",
-            "Date de poste": "Dernière activité : il y a 3 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web H/F",
-            "Entreprise": "",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Fullstack (F/H)",
-            "Entreprise": "Symtrax",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "CDI Travail en journée",
-            "Date de poste": "Offre publiée il y a 28 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Front-end",
-            "Entreprise": "Aryga",
-            "Localisation": "Le Lamentin (MQ)",
-            "Caractéristique": "De 40 000 € à 45 000 € par an CDI Travail en journée",
-            "Date de poste": "</div></div><div class=\"metadata\"><div class=\"attribute_snippet\" data-testid=\"attribute_snippet_testid\"><svg aria-hidden=\"true\" aria-label=\"Shift\" fill=\"none\" height=\"15px\" role=\"presentation\" viewbox=\"0 0 14 15\" xmlns=\"http://www.w3.org/2000/svg\"><path clip-rule=\"evenodd\" d=\"M7 14.5C10.866 14.5 14 11.366 14 7.5C14 3.63401 10.866 0.5 7 0.5C3.13401 0.5 0 3.63401 0 7.5C0 11.366 3.13401 14.5 7 14.5ZM6.2496 4.25C6.2496 4.11193 6.36153 4 6.4996 4H7.2996C7.43767 4 7.5496 4.11193 7.5496 4.25V7.62406L9.62708 8.82349C9.74665 8.89252 9.78762 9.04542 9.71858 9.16499L9.31858 9.85781C9.24955 9.97739 9.09665 10.0184 8.97708 9.94932L6.25028 8.375H6.2496V8.37461L6.24805 8.37371L6.2496 8.37102V4.25Z\" fill=\"#595959\" fill-rule=\"evenodd\"></path></svg>Travail en journée<span class=\"more-items\"> +<!-- -->1"
-        }
-    ]
-][
-    [
-        {
-            "nom": "Développeur C# .NET H/F",
-            "Entreprise": "SOLPAY",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 45 000 € à 55 000 € par an Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web full stack senior H/F",
-            "Entreprise": "mediacrossing:",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "Jusqu’à 36 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Full Stack H/F",
-            "Entreprise": "VEODIS",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "À partir de 2 800 € par mois Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Web Developer / Expert Prestashop",
-            "Entreprise": "RACING LUBES",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 35 000 € à 40 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "CHEF DE PROJET DEVELOPPEUR PROGICIELS .NET C# / SQL H/F",
-            "Entreprise": "KAPHISTO RH",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 35 000 € à 50 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur C# .Net Core F/H",
-            "Entreprise": "R2D2",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 40 000 € à 45 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web - reconversion professionnelle",
-            "Entreprise": "Incubateur Tech - Alt",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 25 763 € à 46 491 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur/se web Apprenti 100% télétravail",
-            "Entreprise": "3WRH",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a 10 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Developpeur Web H/F",
-            "Entreprise": "StartupFood",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "À partir de 4 000 € par mois Temps plein Périodes de travail de 8 heures",
-            "Date de poste": "Offre publiée il y a 1 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Front-end",
-            "Entreprise": "Aryga",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 40 000 € à 45 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Ingénieur Développement C# H/F",
-            "Entreprise": "Isagri",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 11 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Developpeur Web H/F",
-            "Entreprise": "Assurinco",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 26 000 € à 32 000 € par an Temps plein Travail en journée",
-            "Date de poste": "</div></div><div class=\"metadata\"><div class=\"attribute_snippet\" data-testid=\"attribute_snippet_testid\"><svg aria-hidden=\"true\" aria-label=\"Shift\" fill=\"none\" height=\"15px\" role=\"presentation\" viewbox=\"0 0 14 15\" xmlns=\"http://www.w3.org/2000/svg\"><path clip-rule=\"evenodd\" d=\"M7 14.5C10.866 14.5 14 11.366 14 7.5C14 3.63401 10.866 0.5 7 0.5C3.13401 0.5 0 3.63401 0 7.5C0 11.366 3.13401 14.5 7 14.5ZM6.2496 4.25C6.2496 4.11193 6.36153 4 6.4996 4H7.2996C7.43767 4 7.5496 4.11193 7.5496 4.25V7.62406L9.62708 8.82349C9.74665 8.89252 9.78762 9.04542 9.71858 9.16499L9.31858 9.85781C9.24955 9.97739 9.09665 10.0184 8.97708 9.94932L6.25028 8.375H6.2496V8.37461L6.24805 8.37371L6.2496 8.37102V4.25Z\" fill=\"#595959\" fill-rule=\"evenodd\"></path></svg>Travail en journée</div></div></div><div class=\"heading6 error-text tapItem-gutter\"></div></td></tr></tbody></table><table class=\"jobCardShelfContainer big6_visualChanges\" role=\"presentation\"><tbody><tr class=\"jobCardShelf\"><td class=\"shelfItem indeedApply\"><span class=\"iaIcon\">"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Windows",
-            "Entreprise": "Consulog",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "2 600 € par mois Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 14 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior H/F",
-            "Entreprise": "Crédit Agricole Assurances",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Salesforce H/F",
-            "Entreprise": "Bouygues Telecom",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "Temps plein",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeuse / Développeur Frontend Junior H/F - IDF",
-            "Entreprise": "Capgemini",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur back-end H/F AIX EN PROVENCE",
-            "Entreprise": "Market Academy",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 30 000 € à 55 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Angular - F/H",
-            "Entreprise": "Accenture",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Concepteur-développeur Full-Stack (H/F)",
-            "Entreprise": "Atos",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "",
-            "Date de poste": "Offre publiée il y a 20 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Reconversion / Formation + poste d'Ingénieur developpeur JAVA",
-            "Entreprise": "ISIKA SAS",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 2 700 € à 3 500 € par mois Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior H/F",
-            "Entreprise": "MIS Group",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "2 100 € par mois Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Developpeur Web H/F",
-            "Entreprise": "Topo Marketing Group",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "À partir de 35 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Fullstack H/F",
-            "Entreprise": "LA BOITE IMMO",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior (H/F)",
-            "Entreprise": "Serinya Telecom",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "Temps plein Du Lundi au Vendredi",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Full Stack (H/F) | POEI",
-            "Entreprise": "DataScientest",
-            "Localisation": "06110 Le Cannet",
-            "Caractéristique": "De 36 000 € à 55 000 € par an Temps plein Travail en journée",
-            "Date de poste": ""
-        }
-    ]
-][
-    [
-        {
-            "nom": "Développeur / Software Engineer F/H",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "De 40 000 € à 47 000 € par an CDI Travail en journée",
+            "Date de poste": "Offre publiée il y a 18 jour"
         }
     ],
     [
         {
             "nom": "Développeur Full Stack H/F",
             "Entreprise": "DOTIC",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "Temps plein Du Lundi au Vendredi",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "CDI Du Lundi au Vendredi",
             "Date de poste": "Offre publiée il y a 18 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Front End confirmé H/F– (CDI) – Basé à Marseille",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "De 40 000 € à 55 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Dernière activité : il y a 5 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur/se web Apprenti 100% télétravail",
-            "Entreprise": "3WRH",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a 10 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur front-end web – produit innovant - F/H",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a 20 jour"
-        }
-    ],
-    [
-        {
-            "nom": "DEVELOPPEUR DE L'APPRENTISSAGE",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "Jusqu’à 35 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 24 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Informatique (H/F)",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "",
-            "Date de poste": "Offre publiée il y a plus de 30 jours"
         }
     ],
     [
         {
             "nom": "Développeuse / Développeur Frontend Junior H/F - IDF",
             "Entreprise": "",
-            "Localisation": "Niort (79)",
+            "Localisation": "33700 Mérignac",
             "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web H/F",
-            "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "DEVELOPPEUR PYTHON ERP H/F",
-            "Entreprise": "ATEQ",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "À partir de 35 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Dernière activité : il y a 4 jours"
+            "Date de poste": "Offre publiée il y a 4 jour"
         }
     ],
     [
         {
             "nom": "Développeur Web Junior H/F",
             "Entreprise": "",
-            "Localisation": "Niort (79)",
+            "Localisation": "33700 Mérignac",
             "Caractéristique": "CDI",
             "Date de poste": "Offre publiée il y a 19 jour"
         }
     ],
     [
         {
-            "nom": "Stages analyste développeur (H/F)",
+            "nom": "ANALYSTE DEVELOPPEUR QUANTITATIF RISQUES DE CREDIT ET DE MARCHE - H/F",
             "Entreprise": "",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a 5 jour"
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "CDI",
+            "Date de poste": "Offre publiée il y a 24 jour"
         }
     ],
     [
         {
             "nom": "Développeur web - reconversion professionnelle",
             "Entreprise": "Incubateur Tech - Alt",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "De 25 763 € à 46 491 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Offre publiée il y a 27 jour"
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "De 25 763 € à 46 491 € par an Temps plein Travail en journée",
+            "Date de poste": "</div></div><div class=\"heading6 tapItem-gutter metadataContainer noJEMChips salaryOnly\"><div class=\"metadata salary-snippet-container\"><div class=\"attribute_snippet\" data-testid=\"attribute_snippet_testid\"><svg aria-hidden=\"true\" aria-label=\"Salary\" fill=\"none\" role=\"presentation\" viewbox=\"0 0 16 13\" xmlns=\"http://www.w3.org/2000/svg\"><defs></defs><path clip-rule=\"evenodd\" d=\"M2.45168 6.10292c-.30177-.125-.62509-.18964-.95168-.1903V4.08678c.32693-.00053.6506-.06518.95267-.1903.30331-.12564.57891-.30979.81105-.54193.23215-.23215.4163-.50775.54194-.81106.12524-.30237.18989-.62638.19029-.95365H9.0902c0 .3283.06466.65339.1903.9567.12564.30331.30978.57891.54193.81106.23217.23215.50777.41629.81107.54193.3032.12558.6281.19024.9562.1903v1.83556c-.3242.00155-.6451.06616-.9448.19028-.3033.12563-.5789.30978-.81102.54193-.23215.23214-.4163.50774-.54193.81106-.12332.2977-.18789.61638-.19024.93849H3.99496c-.00071-.32645-.06535-.64961-.19029-.95124-.12564-.30332-.30979-.57891-.54193-.81106-.23215-.23215-.50775-.4163-.81106-.54193zM0 .589843C0 .313701.223858.0898438.5.0898438h12.0897c.2762 0 .5.2238572.5.5000002V9.40715c0 .27614-.2238.5-.5.5H.5c-.276143 0-.5-.22386-.5-.5V.589843zM6.54427 6.99849c1.10457 0 2-.89543 2-2s-.89543-2-2-2-2 .89543-2 2 .89543 2 2 2zm8.05523-2.69917v7.10958H2.75977c-.27615 0-.5.2238-.5.5v.5c0 .2761.22385.5.5.5H15.422c.4419 0 .6775-.2211.6775-.6629V4.29932c0-.27615-.2239-.5-.5-.5h-.5c-.2761 0-.5.22385-.5.5z\" fill=\"#595959\" fill-rule=\"evenodd\"></path></svg>De 25 763 € à 46 491 € par an</div></div><div class=\"metadata\"><div class=\"attribute_snippet\" data-testid=\"attribute_snippet_testid\"><svg aria-hidden=\"true\" aria-label=\"Job type\" fill=\"none\" height=\"13\" role=\"presentation\" viewbox=\"0 0 14 13\" width=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><path clip-rule=\"evenodd\" d=\"M4.50226.5c-.27614 0-.5.223858-.5.5v2.1H.5c-.276142 0-.5.22386-.5.5v1.9h14V3.6c0-.27614-.2239-.5-.5-.5h-3.4977V1c0-.276142-.22389-.5-.50004-.5h-5Zm4.19962 2.6H5.30344V1.8h3.39844v1.3Z\" fill=\"#595959\" fill-rule=\"evenodd\"></path><path d=\"M5.70117 6.80005H0v5.20005c0 .2761.223857.5.5.5h13c.2761 0 .5-.2239.5-.5V6.80005H8.30117v.80322c0 .27614-.22386.5-.5.5h-1.6c-.27614 0-.5-.22386-.5-.5v-.80322Z\" fill=\"#595959\"></path></svg>Temps plein</div></div><div class=\"metadata\"><div class=\"attribute_snippet\" data-testid=\"attribute_snippet_testid\"><svg aria-hidden=\"true\" aria-label=\"Shift\" fill=\"none\" height=\"15px\" role=\"presentation\" viewbox=\"0 0 14 15\" xmlns=\"http://www.w3.org/2000/svg\"><path clip-rule=\"evenodd\" d=\"M7 14.5C10.866 14.5 14 11.366 14 7.5C14 3.63401 10.866 0.5 7 0.5C3.13401 0.5 0 3.63401 0 7.5C0 11.366 3.13401 14.5 7 14.5ZM6.2496 4.25C6.2496 4.11193 6.36153 4 6.4996 4H7.2996C7.43767 4 7.5496 4.11193 7.5496 4.25V7.62406L9.62708 8.82349C9.74665 8.89252 9.78762 9.04542 9.71858 9.16499L9.31858 9.85781C9.24955 9.97739 9.09665 10.0184 8.97708 9.94932L6.25028 8.375H6.2496V8.37461L6.24805 8.37371L6.2496 8.37102V4.25Z\" fill=\"#595959\" fill-rule=\"evenodd\"></path></svg>Travail en journée<span class=\"more-items\"> +<!-- -->1"
         }
     ],
     [
         {
-            "nom": "Développeur Web Junior",
+            "nom": "CONCEPTEUR DEVELOPPEUR SI DE GESTION (ECLIPSE/DB2) -F/H",
             "Entreprise": "",
-            "Localisation": "Niort (79)",
+            "Localisation": "33700 Mérignac",
             "Caractéristique": "CDI",
-            "Date de poste": "Aujourd'hui"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web",
-            "Entreprise": "Kalkin",
-            "Localisation": "Niort (79)",
-            "Caractéristique": "De 27 000 € à 36 000 € par an Temps plein Du Lundi au Vendredi",
-            "Date de poste": "Aujourd'hui"
-        }
-    ]
-][][
-    [
-        {
-            "nom": "Développeur Backend Senior Symfony H/F",
-            "Entreprise": "AGEVAL SOLUTIONS",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI Du Lundi au Vendredi",
-            "Date de poste": "Dernière activité : il y a 20 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Full Stack SENIOR (H/F)",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "À partir de 3 500 € par mois CDI Travail en journée",
-            "Date de poste": "Dernière activité : il y a 3 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Magento H/F - Lille",
-            "Entreprise": "Officeeasy",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "De 44 000 € à 47 000 € par an CDI Horaires aménageables",
             "Date de poste": "Offre publiée il y a plus de 30 jours"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur(se) confirmé(e) PHP Symfony",
-            "Entreprise": "Apiwork",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI Travail en journée",
-            "Date de poste": "Offre publiée il y a 25 jour"
         }
     ],
     [
         {
             "nom": "Développeur/se web Apprenti 100% télétravail",
             "Entreprise": "3WRH",
-            "Localisation": "Télétravail hybride à 49100 Angers",
+            "Localisation": "33700 Mérignac",
             "Caractéristique": "Temps plein Repos le week-end",
             "Date de poste": "Offre publiée il y a 10 jour"
         }
     ],
     [
         {
-            "nom": "Développeur ITSM",
+            "nom": "Développeur Informatique (H/F)",
             "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 13 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur (H/F)",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 18 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeuse / Développeur Frontend Junior H/F - IDF",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur web H/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": ""
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior H/F",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": "Offre publiée il y a 19 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur front-end web – produit innovant - F/H",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "Temps plein",
-            "Date de poste": "Offre publiée il y a 20 jour"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web",
-            "Entreprise": "Kalkin",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "De 27 000 € à 36 000 € par an CDI Horaires aménageables",
-            "Date de poste": "Aujourd'hui"
-        }
-    ],
-    [
-        {
-            "nom": "Développeur Web Junior",
-            "Entreprise": "",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "CDI",
-            "Date de poste": "Aujourd'hui"
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "",
+            "Date de poste": "Offre publiée il y a plus de 30 jours"
         }
     ],
     [
         {
             "nom": "Developpeur Web H/F",
             "Entreprise": "StartupFood",
-            "Localisation": "Télétravail hybride à 49100 Angers",
+            "Localisation": "33700 Mérignac",
             "Caractéristique": "À partir de 4 000 € par mois CDI Périodes de travail de 8 heures",
             "Date de poste": "Offre publiée il y a 1 jour"
         }
     ],
     [
         {
-            "nom": "Développeur web - reconversion professionnelle",
-            "Entreprise": "Incubateur Tech - Alt",
-            "Localisation": "Télétravail hybride à 49100 Angers",
-            "Caractéristique": "De 25 763 € à 46 491 € par an Temps plein Travail en journée",
-            "Date de poste": "Offre publiée il y a 27 jour"
+            "nom": "Développeur front-end web – produit innovant - F/H",
+            "Entreprise": "",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "Temps plein",
+            "Date de poste": "Offre publiée il y a 20 jour"
+        }
+    ],
+    [
+        {
+            "nom": "Développeur web H/F",
+            "Entreprise": "",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "CDI",
+            "Date de poste": "Offre publiée il y a 7 jour"
+        }
+    ],
+    [
+        {
+            "nom": "Développeur JAVA (H/F) - Rodez",
+            "Entreprise": "",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "",
+            "Date de poste": "Offre publiée il y a 14 jour"
+        }
+    ],
+    [
+        {
+            "nom": "Développeur Web Front-end",
+            "Entreprise": "Aryga",
+            "Localisation": "33700 Mérignac",
+            "Caractéristique": "De 40 000 € à 45 000 € par an CDI Travail en journée",
+            "Date de poste": ""
         }
     ]
 ]
