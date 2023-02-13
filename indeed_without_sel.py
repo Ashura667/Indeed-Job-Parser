@@ -1,6 +1,6 @@
 import cloudscraper, re
 import bs4
-
+import json
 scraper = cloudscraper.create_scraper(delay=10)  # returns a CloudScraper instance
 # Or: scraper = cloudscraper.CloudScraper()  # CloudScraper inherits from requests.Session
 donnée = scraper.get("https://fr.indeed.com/jobs?q=développeur%20web&l=&from=searchOnHP").text
@@ -13,6 +13,8 @@ donnée = scraper.get("https://fr.indeed.com/jobs?q=développeur%20web&l=&from=s
 #    print(nom_metier[i] + " " + nom_entreprise[i] + " " + lieu[i] + " " + salaire[i])
 soup =   bs4.BeautifulSoup(donnée, "lxml")
 w3schollsList = soup.find_all('body')
+x = []
+
 for w3scholl in w3schollsList:
     ulList = w3scholl.find_all('li')
     for li in ulList:
@@ -33,7 +35,10 @@ for w3scholl in w3schollsList:
                 for element in re.findall(r'</span>(.*?)</span>', str(li)):
                     if "Offre publiée" in element or "Recrutement" in element or "Derniere" in element:
                         poster = element
+                x.append([{'nom':nommetier, 'Entreprise':Companyname, 'Localisation' :CompanyLocation,  'Caractéristique':" ".join(Salary), "Date de poste":poster}])
                 print(nommetier, Companyname, CompanyLocation, " ".join(Salary), poster)
+with open('indeed.json', 'a', encoding='utf8') as f:
+    f.write(json.dumps(x, indent=4))
 
 
 
